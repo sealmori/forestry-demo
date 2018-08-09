@@ -2,4 +2,7 @@
 label: Personal Brand
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: file
+- type: text
+  default: Hola mundo
