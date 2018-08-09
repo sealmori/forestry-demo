@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2018/02/17/city.jpg"
 layout: landing-page
 heading: Belkirk College
 partners:
@@ -30,6 +30,6 @@ menu:
   navigation:
     identifier: _index
     weight: 1
-published: false
 
 ---
+Hola mundo
