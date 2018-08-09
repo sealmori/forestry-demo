@@ -32,4 +32,3 @@ menu:
     weight: 1
 
 ---
-Hola mundo
